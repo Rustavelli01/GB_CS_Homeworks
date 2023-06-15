@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\bin\Debug\net6.0\exmp001.exe
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\bin\Debug\net6.0\exmp001.deps.json
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\bin\Debug\net6.0\exmp001.runtimeconfig.json
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\bin\Debug\net6.0\exmp001.dll
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\bin\Debug\net6.0\exmp001.pdb
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\obj\Debug\net6.0\exmp001.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\obj\Debug\net6.0\exmp001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\obj\Debug\net6.0\exmp001.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\obj\Debug\net6.0\exmp001.AssemblyInfo.cs
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\obj\Debug\net6.0\exmp001.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\obj\Debug\net6.0\exmp001.dll
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\obj\Debug\net6.0\refint\exmp001.dll
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\obj\Debug\net6.0\exmp001.pdb
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\obj\Debug\net6.0\exmp001.genruntimeconfig.cache
+C:\Users\User\Desktop\GitEdication\GB_CS_Seminars\exmp001\obj\Debug\net6.0\ref\exmp001.dll
